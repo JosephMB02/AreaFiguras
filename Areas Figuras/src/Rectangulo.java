@@ -1,3 +1,4 @@
+//Suerte Saul
 import java.util.Scanner;
 
 public class Rectangulo {
